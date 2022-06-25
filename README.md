@@ -10,3 +10,22 @@ booktitle={ In Proceedings of 2nd ACM SIGCOMM Workshop on 5G and Beyond Network 
 year={2022}
 }
 ```
+## Dataset Description
+
+There are 3 measurement scenarios: Static, Walking and Driving. For each scenarios we performed multiple throughput and latency measurements using 5G and LTE networks. The data is kept in the following heriarchy:
+
+```
+throughput
+          scenario
+                  5g
+                     *.list files
+                  lte
+                     *.list files
+ping
+    scenario
+            5g
+               *.list files
+            lte
+               *.list files
+        
+```
