@@ -29,3 +29,5 @@ ping
                *.list files
         
 ```
+
+Each leaf folder/directory contains ".list" files which contains the throughput or latency data for multiple runs in a list format.
