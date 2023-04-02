@@ -31,3 +31,8 @@ ping
 ```
 
 Each leaf folder/directory contains ".list" files which contains the throughput or latency data for multiple runs in a list format.
+
+The MobileInsight files containing MCS and Beamforming information can be found in the following link:
+```
+https://drive.google.com/drive/folders/1OfIfisRz168Iic6mdKmLGoJjK0hdIIFP?usp=sharing
+```
